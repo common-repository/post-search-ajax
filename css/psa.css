@@ -1,0 +1,66 @@
+/*LAYOUT CSS ON THE FRONT*/
+#search-results{
+    text-align: center;
+}
+#search-results h4 {
+    text-align: left;
+}
+.search-hash {
+    width: 100%;
+    padding: 7px;
+    font-size: 18px;
+    font-weight: 800;
+}
+.dummy-image {
+    height: auto;
+    width: 74px;
+}
+
+.col-s-1 {
+    width: 8.33333333%;
+}
+
+.col-s-1{
+    float: left;
+}
+.col-s-1 {
+	 position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-s-11 {
+   width: 91.66666667%;
+       float: left;
+      position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.spinner-psa {
+    background: url('../../post-search-ajax/img/Spinner.svg')no-repeat center;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    padding: 30px;
+}
+
+.psa-row {
+    margin-right: -15px;
+    margin-left: -15px;
+
+}
+.psa-clearfix {
+    zoom: 1;
+    margin-top: 3em;
+    padding-bottom: 20px;
+        clear: both;
+}
+.psa-clearfix:before,
+.psa-clearfix:after,{
+    display: table;
+  content: " ";
+    clear: both;
+}

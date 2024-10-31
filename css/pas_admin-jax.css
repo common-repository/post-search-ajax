@@ -1,0 +1,17 @@
+h4.testing.mike {
+    font-size: 18px;
+}
+table.plugin-istraction .adminjax{
+    border: 1px solid;
+}
+table.plugin-istraction {
+    margin-top: 2em;
+}
+.plugin-istraction tr, td {
+    padding: 15px;
+}
+tr.title-insraction td {
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+}
